@@ -1,4 +1,4 @@
 # Honey-Comb
 Things i did in hive helsinki
 
-I will update this git later on.
+Unfortunately, Every Project I did is left back at Helsinki Thanks to Quarantine
