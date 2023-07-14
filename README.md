@@ -1,5 +1,8 @@
 # Honey-Comb
-Things i did in hive helsinki
+Projects I completed during my time in Hive Helsinki.
 
-Unfortunately, Every Project I did is left back at Helsinki Thanks to Quarantine
-So most of my project isn't here currently...
+Unfortunately, Most of my projects are left back in Helsinki because of the Corona Quarantine.
+
+You can check out other projects by Googling Hive Helsinki Piscine.
+
+https://github.com/mhjony/Hive-Helsinki-Piscine
